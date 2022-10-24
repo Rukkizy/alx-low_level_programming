@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
+ * main - print data types sizes
  *
- * * main - print data types sizes
- *
- * *
- *
- * *Return: 0
+ * Return: 0
  *
  */
 int main(void)
